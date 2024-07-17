@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d690be7c-103f-4ad7-b769-419ea6565090" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ChessEngine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/ChessEngine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/ChessMain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/bB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/bK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/bN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/bP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/bQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/bR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/wB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/wK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/wN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/wP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/wQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/images/wR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jNEj6ePVU56btJjf0riSQZzCc3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ChessEngine.executor": "Run",
+    "Python.ChessMain.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/aarya/PycharmProjects/ChessEngine/Chess"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aarya\PycharmProjects\ChessEngine\Chess" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d690be7c-103f-4ad7-b769-419ea6565090" name="Changes" comment="" />
+      <created>1721219268132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721219268132</updated>
+    </task>
+    <servers />
+  </component>
+</project>
