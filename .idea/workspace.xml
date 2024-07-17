@@ -4,30 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d690be7c-103f-4ad7-b769-419ea6565090" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ChessEngine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/ChessEngine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/ChessMain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/bB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/bK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/bN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/bP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/bQ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/bR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/wB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/wK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/wN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/wP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/wQ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/images/wR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="d690be7c-103f-4ad7-b769-419ea6565090" name="Changes" comment="Board and Pieces drawn">
+      <change beforePath="$PROJECT_DIR$/Chess/ChessMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/ChessMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/bB.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/bB.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/bK.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/bK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/bN.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/bN.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/bP.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/bP.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/bQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/bQ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/bR.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/bR.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/wB.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/wB.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/wK.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/wK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/wN.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/wN.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/wP.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/wP.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/wQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/wQ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/images/wR.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/images/wR.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aryasadawrate19"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aryasadawrate19/Tactic-Titan.git",
+    "accountId": "c3c1653e-e6a4-4dcc-9dfc-2f55d4ebed5e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -83,6 +85,30 @@
       <option name="presentableId" value="Default" />
       <updated>1721219268132</updated>
     </task>
+    <task id="LOCAL-00001" summary="Board and Pieces drawn">
+      <option name="closed" value="true" />
+      <created>1721236168211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721236168211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Board and Pieces drawn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Board and Pieces drawn" />
   </component>
 </project>

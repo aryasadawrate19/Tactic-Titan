@@ -22,7 +22,7 @@ def loadImages():
     pieces = ["bB", "bK", "bN", "bP", "bQ", "bR", "wB", "wK", "wN", "wP", "wQ", "wR"]
 
     for piece in pieces:
-        IMAGES[piece] = pg.transform.scale(pg.image.load("images/" + piece + ".png"), (SQ_SIZE, SQ_SIZE))
+        IMAGES[piece] = pg.transform.scale(pg.image.load("Assets/images/" + piece + ".png"), (SQ_SIZE, SQ_SIZE))
     # Note: Can access separate images as well (e.g. IMAGES[wP.png])
 
 
