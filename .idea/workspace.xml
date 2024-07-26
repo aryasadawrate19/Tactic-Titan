@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d690be7c-103f-4ad7-b769-419ea6565090" name="Changes" comment="Undo move feature added">
+    <list default="true" id="d690be7c-103f-4ad7-b769-419ea6565090" name="Changes" comment="Moves for all pieces added (Checks to be added later)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chess/ChessEngine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/ChessEngine.py" afterDir="false" />
     </list>
@@ -143,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721803392047</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Moves for all pieces added (Checks to be added later)">
+      <option name="closed" value="true" />
+      <created>1721815390151</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721815390151</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +170,7 @@
     <MESSAGE value="File Structure Updated" />
     <MESSAGE value="Piece movement added (Toddler chess i.e. without any rules.)" />
     <MESSAGE value="Undo move feature added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Undo move feature added" />
+    <MESSAGE value="Moves for all pieces added (Checks to be added later)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moves for all pieces added (Checks to be added later)" />
   </component>
 </project>
