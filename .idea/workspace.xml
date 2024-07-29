@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d690be7c-103f-4ad7-b769-419ea6565090" name="Changes" comment="Checks for checks added">
+    <list default="true" id="d690be7c-103f-4ad7-b769-419ea6565090" name="Changes" comment="En Passant added and pawn promotion added. Castling to be fixed in next commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chess/ChessEngine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/ChessEngine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/ChessMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/ChessMain.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722021399178</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="En Passant added and pawn promotion added. Castling to be fixed in next commit">
+      <option name="closed" value="true" />
+      <created>1722074124771</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722074124771</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +189,7 @@
     <MESSAGE value="Undo move feature added" />
     <MESSAGE value="Moves for all pieces added (Checks to be added later)" />
     <MESSAGE value="Checks for checks added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checks for checks added" />
+    <MESSAGE value="En Passant added and pawn promotion added. Castling to be fixed in next commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="En Passant added and pawn promotion added. Castling to be fixed in next commit" />
   </component>
 </project>
